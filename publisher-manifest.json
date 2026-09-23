@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "74e6ae5c7e4819faebed45d3",
+  "owner": "kpdzvvfm",
+  "repo": "page-39d3f6a3bd593f0a7ef0392f",
+  "title": "LINKI",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "39d3f6a3bd593f0a7ef0392f",
+      "a": "LINKI",
+      "b": "稳定全球clash加速器",
+      "entity": "LINKI",
+      "brand": "LINKI",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "e513f1422a0d21c7fca9d17d147dc6b336528042c302d42f9b62744ef4bd48fe",
+      "content": {
+        "primary_entity": "LINKI",
+        "keyword1": "LINKI",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_HERO_SUBTITLE": "LINKI 加速器多端畅联",
+          "AI_HERO_INTRO": "LINKI 提供面向全球网络访问的 Clash 订阅服务，覆盖日常浏览、流媒体与游戏加速等场景。按设备数量与月流量选择基础版、旗舰版或团队版，配合常用客户端导入订阅即可使用。",
+          "AI_VISUAL_TITLE": "LINKI 轻松连全球",
+          "AI_HIGHLIGHT_1": "三档套餐匹配不同用量",
+          "AI_HIGHLIGHT_2": "多设备在线灵活切换",
+          "AI_HIGHLIGHT_3": "游戏与流媒体线路可选",
+          "AI_DESCRIPTION": "，专注于为多设备用户提供 Clash 订阅服务。套餐按同时在线设备数与月流量区分：基础版适合个人轻量使用，旗舰版平衡流量与专线体验，团队版面向多人协作与大流量场景。支持在路由器、电脑和移动端等常见客户端导入配置，按订阅周期付费更省心。",
+          "AI_FEATURES_TITLE": "套餐与设备选择要点",
+          "AI_FEATURES_INTRO": "结合日常设备数量和每月流量估算，挑选匹配的订阅周期。",
+          "AI_FEATURE_TITLE_1": "流量与设备匹配",
+          "AI_FEATURE_TEXT_1": "基础版 3 台设备与 100GB 月流量，满足手机加电脑日常使用。",
+          "AI_FEATURE_TITLE_2": "旗舰版专线体验",
+          "AI_FEATURE_TEXT_2": "旗舰版 5 台设备与 300GB 流量，含 IPLC 专线游戏加速优化。",
+          "AI_FEATURE_TITLE_3": "团队多端共享",
+          "AI_FEATURE_TEXT_3": "团队版支持 20 台设备与 1000GB 流量，可定制企业路由。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLIENTS_INTRO": "路由器、桌面端与移动端可按系统类型匹配对应 Clash 客户端，导入订阅后开始使用。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月或 ¥150/年，旗舰版 ¥35/月或 ¥350/年，团队版 ¥85/月或 ¥850/年，按设备数与流量选择。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_GUIDE_INTRO": "从选套餐到完成配置，按步骤操作即可连接使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "根据设备数量和月流量需求，从基础版、旗舰版或团队版中挑选并完成订阅。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认设备系统版本与客户端类型，了解同时在线设备数和流量额度是否符合日常使用。",
+          "AI_STEP_TITLE_3": "导入订阅配置",
+          "AI_STEP_TEXT_3": "依照对应客户端文档添加订阅链接，更新节点后即可按套餐权益连接使用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选对套餐轻松连接",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选择 LINKI 套餐，按订阅周期付费即可开始使用。",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量，支持 3 台设备；旗舰版每月 300GB，支持 5 台设备；团队版每月 1000GB，支持 20 台设备。",
+          "AI_FAQ_ANSWER_2": "可以。三档套餐均提供按年付方案，例如旗舰版年付 ¥350，折算后比按月支付更省。",
+          "AI_FAQ_ANSWER_3": "同时在线设备数按套餐区分，基础版 3 台、旗舰版 5 台、团队版 20 台。超出后需先下线其他设备。",
+          "AI_FAQ_ANSWER_4": "按设备选择客户端：手机装移动端应用，电脑装桌面客户端，路由器视固件情况选择支持订阅导入的插件。",
+          "AI_FAQ_ANSWER_5": "旗舰版包含 IPLC 专线游戏加速优化与 7x24 优先工单支持，团队版提供 VIP 专属高带宽节点与企业定制路由。",
+          "AI_FAQ_QUESTION_1": "不同套餐的流量和设备数有什么区别？",
+          "AI_FAQ_QUESTION_2": "可以按年付费吗？",
+          "AI_FAQ_QUESTION_3": "多台设备同时在线怎么算？",
+          "AI_FAQ_QUESTION_4": "如何选择适合自己设备的客户端？",
+          "AI_FAQ_QUESTION_5": "旗舰版和团队版多了哪些权益？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "fqtifoj.cn",
+    "host": "fqtifoj.cn"
+  },
+  "file_hashes": {
+    "index.html": "9f804447b6b31ba5771ca5d255d6fe0aaa5bfcd260bc8980c0bc0f3303d86889",
+    "sitemap.xml": "e94c3bc2e31b0cc2860e0456a820d562fad3be952039c73d8de450f86cd6279f",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "6fb3dda6d0f736b7be555fcf35e2593e0bd7c0a750bea2b0fadbb131d99d5ae4",
+    "robots.txt": "bc20e0e70f894856861fcdd832c57c78423c6fbfca20f0e2f95b8dd4e8203ecb",
+    "b7faf4fbd454c6fed8c86ca80aecafe0.txt": "b6edc19b1e67da20bbde3a8456cd1b9e6a2e37900bdfc93002ba2653b0a434e8"
+  },
+  "revision": "9b19b6e42d12b1df83cf1caf30093e84ef244412d25065491201a26fc8b3adae"
+}
